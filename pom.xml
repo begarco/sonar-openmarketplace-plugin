@@ -16,7 +16,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.buildVersion>6.7</sonar.buildVersion>
+    <sonar.buildVersion>7.4</sonar.buildVersion>
     <sonar.artifact.path>target/${project.artifactId}-${project.version}.jar</sonar.artifact.path>
     <jdk.min.version>1.8</jdk.min.version>
     <license.title>Open Marketplace plugin for SonarQube</license.title>
@@ -44,7 +44,7 @@
     <developer>
       <id>ivangalkin</id>
       <name>ivangalkin</name>
-      <email />
+      <email/>
     </developer>
   </developers>
   <scm>
